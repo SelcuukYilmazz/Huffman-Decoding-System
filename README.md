@@ -1,5 +1,5 @@
 # Huffman-Decoding-System
-You can see my codes and report above. It is huffman decoding-encoding system
+Huffman encoding and decoding system. Program calculates huffman letter codes for given input then prints wanted output as given inputs. You must first encode letters then you can choose decode option. Otherwise code will give error. Reports are included.
 
 # What are Arguments:
 First argument takes ```-i``` or ```-s``` or ```-l```
